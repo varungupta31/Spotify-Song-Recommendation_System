@@ -14,6 +14,7 @@
 <img src = 'images/final.jpg'/>
 
 
-### It was observed that inclusing the name of the artist in the feature vector significantly impacted the recommendation by favouring songs from the same artist more than any other feature. 
+### It was observed that inclusing the name of the artist in the feature vector significantly impacted the recommendation by favouring songs from the same artist more than any other feature. Hence, two pynb files differ only by this feature vector.
+### Both these notebooks could have been merged into one by simply creating a conditional.
 
 ### Although the Spotify's algorithm is way more complex by considering massive database and user history and habits, this recommender work quite well and I personally found the suggestions quite apt :-)
